@@ -9,16 +9,17 @@ ensf 381
 
 ## Team Members
 
+
 | Name       |
 |------------|
 | John Doeee |
-| Jane  oe   |
+| Jane       |
 
 ## Screenshots
 
 ### Exercise B
 
-![Exercise B final output](https://github.com/mobinaanemati/Lab4/blob/f7665c4617fea3139c230bec752ffe956f095642/ExerciseB.gif)
+![Exercise B final output](./ExerciseB.gif)
 
 ### Exercise C
 
